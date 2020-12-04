@@ -7,6 +7,6 @@ Summary:
       * Part 2: inserting the dataset into our instagram clone
       * Part 3: solving business challenges with MySQL
     
-  - Project 2:
+  - Project 2: database triggers
       * TBA 
 
