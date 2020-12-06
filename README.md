@@ -5,7 +5,7 @@ Summary:
       * TBA
 
   - Project 1: database triggers
-      * TBA
+      * Allow users to create an account only if they are 18 years or older
       
   - Project 2: creating an instagram clone
       * Part 0: a visual representation of the database architecture
