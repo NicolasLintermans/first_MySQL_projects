@@ -6,10 +6,10 @@
       
 ###  - Project 2: creating an instagram clone
       * Part 0: a visual representation of the database architecture
-      <br>
+      
       * Part 1: creating the 'instagram clone' database & relevant tables
-      <br>
+      
       * Part 2: inserting the dataset into our instagram clone database
-      <br>
+      
       * Part 3: solving business challenges with MySQL
 
