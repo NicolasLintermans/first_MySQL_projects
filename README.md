@@ -1,11 +1,11 @@
 # first_MySQL_projects
 
 ## Summary:
-  - ### Project 1: database triggers
+###  - Project 1: database triggers
       * Allow users to create an account only if they are 18 years or older
       <br>
       
-  - ### Project 2: creating an instagram clone
+###  - Project 2: creating an instagram clone
       * Part 0: a visual representation of the database architecture
       
       * Part 1: creating the 'instagram clone' database & relevant tables
