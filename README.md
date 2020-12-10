@@ -1,4 +1,5 @@
 # first_MySQL_projects
+<br>
 
 ## Project 1: database triggers
    - Allow users to create an account only if they are 18 years or older
